@@ -17,5 +17,4 @@ npm run dev
 ```
 
 ## Vercel env
-Set:
-`NEXT_PUBLIC_SUBGRAPH_URL="https://api.thegraph.com/subgraphs/name/<YOU>/<SUBGRAPH>"`
+
