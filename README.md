@@ -1,6 +1,4 @@
-# Mushee Identity Dashboard (V3) — Heavenly Dark Purple
-
-This is the “futuristic / YC standard” UI: floating orbs, gridlines, glass panels, neon glow, and a dedicated Gasless screen.
+# Mushee Identity Dashboard 
 
 ## Routes
 - `/` Overview (pitch-style landing)
